@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MCalcPro</string>
+    <string name="Cashprice">cashprice</string>
+    <string name="amortization">amortization</string>
+    <string name="Interest">interest</string>
+    <string name="a_n_a_l_y_z_e">analyze</string>
+</resources>
